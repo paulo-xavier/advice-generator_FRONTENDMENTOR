@@ -9,7 +9,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
     - [Technologies used](#technologies-used-)
 - [Screenshot](#screenshot-)
 - [Links](#links-)
-- [What I learned?](#what-i-learned)
+- [What I learned?](#what-i-learned-)
     - [Useful resources](#useful-resources)
 - [Author](#author)
   
