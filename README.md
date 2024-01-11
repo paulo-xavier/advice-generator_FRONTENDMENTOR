@@ -4,14 +4,14 @@
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents 
-- [About the project](about-the-project-ℹ)
-    - [The challenge]()
-    - [Technologies used]()
-- [Screenshot]()
-- [Links]()
-- [What I learned?]()
-    - [Useful resources]()
-- [Author]()
+- [About the project](#about-the-project-ℹ)
+    - [The challenge](#the-challenge-)
+    - [Technologies used](#technologies-used-)
+- [Screenshot](#screenshot-)
+- [Links](#links-)
+- [What I learned?](#what-i-learned)
+    - [Useful resources](#useful-resources)
+- [Author](#author)
   
 
 
