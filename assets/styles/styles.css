@@ -1,0 +1,67 @@
+:root {
+    --light-cyan: hsl(193, 38%, 86%); 
+    --neon-green: hsl(150, 100%, 66%);
+    --background: hsl(218, 23%, 16%);
+    --background-main:   hsl(217, 19%, 24%); 
+}
+
+body {
+    background-color: var(--background);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#main-content {
+    background-color: var(--background-main);
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px hsl(219, 18%, 19%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+    padding-top: 23px;
+    width: 510px;
+    height: auto;
+}
+
+#advice-id {
+    color: var(--neon-green);
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#advice-message {
+    color: var(--light-cyan);
+    font-size: 28px;
+    width: 450px;
+}
+
+.pattern-divider { 
+    margin-top: 15px;
+}
+
+#change-advice-button {
+    transform: translateY(50%);
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: var(--neon-green);
+    border: none;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+#change-advice-button:hover{
+    box-shadow: 0 0 28px var(--neon-green);
+}
+
+#dice-icon {
+    margin-top: 2px;
+    width: 20px;
+}
+

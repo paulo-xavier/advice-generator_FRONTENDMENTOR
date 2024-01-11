@@ -1,0 +1,30 @@
+@media (max-width: 554px) {
+    #main-content {
+        width: 340px;
+    }
+
+    #advice-message {
+        width: 300px;
+        text-align: center;
+        font-size: 23px;
+    }
+
+    #change-advice-button {
+        height: 55px;
+        width: 55px;
+    }
+
+    #dice-icon {
+        width: 23px;
+    }
+}
+
+@media (max-width: 360px) {
+    #main-content {
+        width: 300px;
+    }
+
+    #advice-message {
+        width: 280px;
+    }
+}
