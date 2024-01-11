@@ -13,9 +13,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
     - [Useful resources](#useful-resources)
 - [Author](#author)
   
-
-
-
 ## About the project ℹ
 
 This project consists in a Advice Generator using the [Advice API](https://api.adviceslip.com). 
@@ -39,11 +36,10 @@ Users should be able to:
 ## Screenshot 🖼
 ![mobile](https://github.com/paulo-xavier/advice-generator_FRONTENDMENTOR/assets/133855530/17f4493f-b5a7-47d4-a4cf-d8bfb55914e2)
 
-
 ## Links 🔗
 
-- Repository URL: [✔Click here]()
-- Live Website: [✔Click here]() 
+- Repository URL: [✔Click here](https://github.com/paulo-xavier/advice-generator_FRONTENDMENTOR)
+- Live Website: [✔Click here](https://paulo-xavier.github.io/advice-generator_FRONTENDMENTOR/) 
 
 ## What I learned ❓
 
