@@ -7,6 +7,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [About the project](#about-the-project-ℹ)
     - [The challenge](#the-challenge-)
     - [Technologies used](#technologies-used-)
+- [Stats]()
 - [Screenshot](#screenshot-)
 - [Links](#links-)
 - [What I learned?](#what-i-learned-)
@@ -32,6 +33,12 @@ Users should be able to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" width="30" /> &nbsp; 
+
+## Stats according Google Lighthouse 🎁
+- 95% for Performance
+- 100% for Accessibility
+- 100% for Best practices
+- 92% for SEO  
 
 ## Screenshot 🖼
 ![mobile](https://github.com/paulo-xavier/advice-generator_FRONTENDMENTOR/assets/133855530/17f4493f-b5a7-47d4-a4cf-d8bfb55914e2)
