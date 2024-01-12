@@ -7,7 +7,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [About the project](#about-the-project-ℹ)
     - [The challenge](#the-challenge-)
     - [Technologies used](#technologies-used-)
-- [Stats]()
+- [Stats](#stats-according-google-lighthouse-)
 - [Screenshot](#screenshot-)
 - [Links](#links-)
 - [What I learned?](#what-i-learned-)
